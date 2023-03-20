@@ -11,7 +11,7 @@ DEFAULT_MINER_COINS = ["Avalanche"]
 CERTIFIED_EXCHANGES = ["ascendex", "binance", "bybit", "gate.io", "hitbtc", "huobi", "kucoin", "okx", "gateway"]
 CERTIFIED_STRATEGIES = ["xemm", "cross exchange market making", "pmm", "pure market making"]
 Footer
-© 2023 GitHub, Inc.
+2023 GitHub, Inc.
 Footer navigation
 Terms
 Privacy
