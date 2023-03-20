@@ -45,3 +45,5 @@ More info coming soon.
 We welcome new data apps, bug fixes, and improvements by the community!
 
 To submit a contribution, issue a pull request and follow the general guidelines listed at https://hummingbot.org/developers/contributions.
+
+* this is a complete copy of another github project at https://github.com/hummingbot/streamlit-apps
